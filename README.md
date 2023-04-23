@@ -1,5 +1,5 @@
 # 💫 About Me:
-İstanbul Kültür Üniversitesinde Bilgisayar Mühendisliği bölümündeyim. <br>İstanbul Kültür Üniversitesi Asimov Teknoloji Kulübünde Yazılımcı olarak görev alıyorum.
+I am a Computer Engineering department at Istanbul Kültür University. <br>I work as a Software Developer at Istanbul Kültür University Asimov Technology Club.
 
 
 ## 🌐 Socials:
