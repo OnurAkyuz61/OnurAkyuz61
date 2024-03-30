@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Engineering department at Istanbul Kültür University. <br>I work as a Software Developer at Istanbul Kültür University Asimov Technology Club.
+I am a Computer Engineering department student at Istanbul Kültür University. <br>I work as a Software Developer at Istanbul Kültür University Asimov Technology Club.
 
 
 ## 🌐 Socials:
